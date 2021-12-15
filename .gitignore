@@ -77,4 +77,8 @@ yarn.lock
 *.code-workspace
 
 # React practice app
+<<<<<<< HEAD
 00-practice-app
+=======
+00-practice-app
+>>>>>>> 6f42928d4c6e75ee79288f389c4d99d1b16f19f6
