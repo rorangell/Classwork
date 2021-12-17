@@ -1,6 +1,10 @@
 .Solved
 .Main
 .02-Advanced-CSS
+.03-JavaScript
+.04-Web-APIs
+.05-Third-Party-APIs
+.06-Server-Side-APIs
 
 
 # Logs
@@ -77,4 +81,8 @@ yarn.lock
 *.code-workspace
 
 # React practice app
+<<<<<<< HEAD
 00-practice-app
+=======
+00-practice-app
+>>>>>>> 6f42928d4c6e75ee79288f389c4d99d1b16f19f6
