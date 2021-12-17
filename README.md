@@ -1,51 +1,64 @@
-# Full-Stack Course Overview
+# fullstack-online
 
-Welcome to the Full-Stack Boot Camp! Some of the most important factors that influence how well and how quickly you learn something are not only how you structure and sequence your learning, but also how you stay motivated and curious about the material, and how you leverage your prior knowledge to build new knowledge you can apply in different situations. 
+Welcome to the Coding Online Boot Camp! This repository houses the Coding Online curriculum and is divided into two pillars:
 
-Learning how to become a web developer is not easy. It will take a lot of internal drive and outside support. To make that journey a bit easier, the course curriculum is structured and sequenced to keep motivation high and connections between concepts clear. 
+* Student-facing class content
 
-The course is broken down into three phases, with a group project at the end of each. Let's delve into what each phase covers and what you'll create during the project weeks. 
+* Instructor-facing lesson plans
 
-## What to Expect in Phase 1 
+## Need Help?
 
-The first third of the course focuses on the front end&mdash;the words, images, and forms you see and interact with in the browser&mdash;like when you click a login button and a dialog box pops up. Front-end languages, techniques, and libraries are foundational to being a full-stack developer, and you’ll continue to build on these skills throughout the course.
+If you find an error or bug in our curriculum, please submit feedback using the [Coding Online Feedback Form for Instructional Teams](https://forms.gle/gbVpzgf6TK4Z2Bf78). The contents of your form submission go directly to our curriculum team.
 
-## Project 1
+**Note:** If a bug is related to a virtual class lesson plan in this repository, please create a GitHub issue for faster resolution.
 
-This boot camp will be taxing, and having something you can look back on and be proud of early in the course helps keep motivation and morale high. You might not believe it now, but it’s totally possible to build a cool interactive web application after the first few weeks by developing the front-end yourself and leveraging other people’s servers and APIs. For example, Food Finder is a student-made app that helps you find recipes. Fourth and Lawn is another student-made app that helps you find parking at sporting events.
+Please see the [FullStack-Online Wiki](https://github.com/coding-boot-camp/fullstack-online/wiki) for contributing guidelines.
 
-## What to Expect in Phase 2 
+For information about onboarding and training, please consult your Onboarding course in Canvas. If you don't have access or a Canvas account, please email support@bootcampspot.com and provide your name and university.
 
-You could stop here and look for jobs as a front-end web developer, but the field demands more. There are a plethora of opportunities for developers who can build their own back end. In the second phase, you will learn to build your own server code. 
+In case of emergency, message the Full-Stack Online Program Support Manager, `@Courtney Mathena`, in [#05-coding-online](https://trilogyed-instruction.slack.com/archives/CTDADCHD2).
 
-As mentioned earlier, the second factor influencing how strong and quickly you learn something new is how you are able to take what you already know and make helpful connections with new material in order to develop a solid understanding of new concepts. Having a back end allows us to use a server to make and receive requests from the front end. An example of this is if a user clicks a login button, fills out their user information in the dialog box, and clicks submit, those credentials could be validated via a back-end server.
+## How to Use This Repository
 
-## Project 2
+### Class Content
 
-As a final project for the second phase, you'll combine your ability to create a front-end website with your new ability to write server code to create a site that interacts with your server code. Starting your second project from scratch instead of using the front end you developed in Project 1 helps reinforce your existing front-end abilities and solidify how you conceive of the front-end and back-end dynamic. If your front-end fundamentals are not strong at the end of the first project, you'll be building on a weak foundation. 
+You will find the following in [01-Class-Content](./01-Class-Content):
 
-## What to Expect in Phase 3 
+* Module instructor overviews
 
-The third phase primarily focuses on React and computer science fundamentals. React is a popular front-end advanced library that has taken off over the last few years. Why do we go back to the front-end at the very end? Well, unlike JQuery, React brings a certain level of abstraction that is harder to grasp without a working understanding of the back end. React will allow for us to create highly reusable components. Instead of having to create the same element multiple times, React allows us to create it once, and render it as many times as necessary for our application. We can even dynamically render these components to populate information as needed, and not take up more memory than necessary.
+* In-class activities
 
-We’ll also cover computer science fundamentals, which are essential to web development. Our curriculum includes a deep dive into the basics of coding and algorithms. While this content is no replacement for a computer science degree, you will learn what you need to know to work efficiently and create optimized code. Practices such as sorting algorithms and Big O notation are very important to code efficiency, and will be something you think about when writing applications throughout your career.
+* Challenge instructions, starter code, and solutions
 
-## Project 3
+* Weekly algorithms (where applicable)
 
-As a capstone to the boot camp, you’ll work in groups to build novel full-stack applications that solve real-world problems and use a wide swath of the languages and libraries you learned over the course of these past few months. We can’t wait to see what you build!
+* Supplemental content such as installation guides and learning resources
 
-## Up Next
+* Module Project code 
 
-For a closer preview of what we explore in each unit of the boot camp, dive into each unit’s overview to learn the following:
+  This is the code for the projects that students build in their asynchronous modules in Canvas. You'll find the following in each `05-Module-Project` folder: 
 
-* What you will learn in the unit and why it’s important
+  1. a `main` folder containing the final project build
 
-* How topics in the unit relate to what came earlier in the boot camp
+  2. a `lesson-files` folder containing the snapshots of where the code should be at the end of each lesson in an asynchronous module of content
 
-* Activities you’ll complete and what skills they focus on
+Use these materials to build your class repository.
 
-* Common interview questions related to that week’s material
+### Lesson Plans
 
-* Helpful resources if you want to get ahead or gain more experience after the unit
+You will find the following in [02-lesson-plans](./02-Lesson-Plans):
 
+* Lesson plans
+
+* Grading rubrics
+
+* Links to slide decks (where applicable)
+
+The `02-Lesson-Plans/README.md` contains tips, alerts, and resources for all modules. 
+
+Each module contains a README.md overview containing tips, alerts, and resources specific to that module. 
+
+📝 The lesson plans in this repo are instructor-facing only and should **not** be shared with students. 
+
+---
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
